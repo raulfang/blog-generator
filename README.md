@@ -226,6 +226,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
       targetElement.dispatchEvent(clickEvent);
     我们在网上搜索fastClick，大部分都在说他解决了zepto的点击穿透问题，他是怎么解决的呢？就是上面最后一句，他模拟的click事件是在touchEnd获取的真实元素上触发的，而不是通过坐标计算出来的元素。
      
-    
+  [34 行 JavaScript 代码搞定粒子动画效果](http://link.zhihu.com/?target=http%3A//svgtrick.com/tricks/0cf695ca1f3af43669223cc4c8d565a3)  
 ## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
 ## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues)  
