@@ -101,6 +101,44 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [js数组API--温故知新](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9f03df265da06602994f7)
 ## [学习正则表达式的简单方法 learn-regex 中文版本](http://link.zhihu.com/?target=https%3A//github.com/zeeshanu/learn-regex/blob/master/README-cn.md)  【扫盲】
 
-##算法
+## [JavaScript 专题之如何判断两个对象相等](http://link.zhihu.com/?target=https%3A//juejin.im/post/598a701b6fb9a03c5b04bb14) 【干货】
+
+
+## [Async Functions (异步函数)](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7731)
+
+## [DOM扩展,DOM2和DOM3](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000003963679)
+
+## [event对象中 target和currentTarget 属性的区别。](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/yewenxiang/p/6171411.html)
+
+ 
+
+## [LESS学习:LESS的基础语法](http://link.zhihu.com/?target=http%3A//old.zhufengpeixun.cn/qianduanjishuziliao/mobileDevelopment/2016-07-22/528.html)
+
+## [var, let, const详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7286053.html)
+
+
+
+## [从移动端click到摇一摇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59741e6f6fb9a06bca0bd7d1)
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+
+
+## [宇cccc](http://link.zhihu.com/?target=http%3A//www.jianshu.com/u/a03c0c4f5c88)
+
+## [JavaScript 专题之函数柯里化](http://link.zhihu.com/?target=https%3A//juejin.im/post/598d0b7ff265da3e1727c491)
+
+## [原生JS实现AJAX、JSONP及DOM加载完成事件](http://link.zhihu.com/?target=https%3A//github.com/WeideMo/jsonp) 【扫盲】
+
+## [Ajax关于readyState（状态值）和status（状态码）的研究](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/liu-fei-fei/p/5618782.html)  【扫盲】
+
+## [notebook](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook)
+
+## [javascript中数组排序的秘密](http://link.zhihu.com/?target=http%3A//blog.maelon.me/2017/07/26/arraysort/)
+
+## [点击水波纹，滑块](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6293352726308454571)
+
+
+## [原生JS实现最简单的图片懒加载](http://link.zhihu.com/?target=http%3A//axuebin.com/blog/2017/08/19/javascript-lazyload/%3Futm_source%3Dtuicool%26utm_medium%3Dreferral)
 ## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
 ## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues)  
