@@ -120,7 +120,25 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [学习正则表达式的简单方法 learn-regex 中文版本](http://link.zhihu.com/?target=https%3A//github.com/zeeshanu/learn-regex/blob/master/README-cn.md)  【扫盲】
 
 ## [JavaScript 专题之如何判断两个对象相等](http://link.zhihu.com/?target=https%3A//juejin.im/post/598a701b6fb9a03c5b04bb14) 【干货】
+## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 
+## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
+
+## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
+
+## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
+
+## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
+
+## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
+
+## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
+
+## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
+
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
 
 ## [Async Functions (异步函数)](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7731)
 
