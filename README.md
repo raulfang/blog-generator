@@ -90,8 +90,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
 ## [使用 ES2017 中的 Async(异步) 函数 和 Await(等待)](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7980)  
 
-
- 
 ## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
 ## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
 ## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce)  【干货】
@@ -111,7 +109,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [event对象中 target和currentTarget 属性的区别。](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/yewenxiang/p/6171411.html)
 
- 
 
 ## [LESS学习:LESS的基础语法](http://link.zhihu.com/?target=http%3A//old.zhufengpeixun.cn/qianduanjishuziliao/mobileDevelopment/2016-07-22/528.html)
 
@@ -141,5 +138,57 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 ## [原生JS实现最简单的图片懒加载](http://link.zhihu.com/?target=http%3A//axuebin.com/blog/2017/08/19/javascript-lazyload/%3Futm_source%3Dtuicool%26utm_medium%3Dreferral)
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
+
+## [周末读fastclick.js源码有感](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6391406262738698559) 在touchend合成一个事件立即触发解决300ms问题
+
+    fastclick是将事件绑定到你传的元素（一般是document.body）
+    ② 在touchstart和touchend后（会手动获取当前点击el），如果是类click事件便手动触发了dom元素的click事件
+    所以click事件在touchend便被触发，整个响应速度就起来了，触发实际与zepto tap一样
+    既然浏览器有这300ms的延迟，那么我们来代替浏览器判断，手动触发click事件，这也是fastClick的解决方案。
+    
+    // 自定义事件
+    var eve = new Event('自定义事件名');
+    el.addEventListener('自定义事件名', function(){
+        console.log('自定义事件')
+    });
+    el.dispatchEvent(eve);
+    //
+    
+    fastClick的核心代码
+    
+    FastClick.prototype.onTouchEnd = function(event){
+    
+      // 一些状态监测代码 
+    
+      // 从这里开始，
+      if (!this.needsClick(targetElement)) {
+        // 如果这不是一个需要使用原生click的元素，则屏蔽原生事件，避免触发两次click
+        event.preventDefault(); 
+        // 触发一次模拟的click
+        this.sendClick(targetElement, event);
+      }
+    }
+    这里可以看到，FastClick在touchEnd的时候，在符合条件的情况下，主动触发了click事件，这样避免了浏览器默认的300毫秒等待判断。为了防止原生的click被触发，这里还通过event.preventDefault()屏蔽了原生的click事件。
+    
+    我们来看看他是怎么模拟click事件的
+    
+    FastClick.prototype.sendClick = function(targetElement, event) {
+    
+      // 这里是一些状态检查逻辑
+    
+      // 创建一个鼠标事件
+      clickEvent = document.createEvent('MouseEvents');
+      // 初始化鼠标事件为click事件
+      clickEvent.initMouseEvent(this.determineEventType(targetElement), true, true, window, 1, touch.screenX, touch.screenY, touch.clientX, touch.clientY, false, false, false, false, 0, null);
+    
+      // fastclick的内部变量，用来识别click事件是原生还是模拟
+      clickEvent.forwardedTouchEvent = true;
+    
+      // 在目标元素上触发该鼠标事件，
+      targetElement.dispatchEvent(clickEvent);
+    我们在网上搜索fastClick，大部分都在说他解决了zepto的点击穿透问题，他是怎么解决的呢？就是上面最后一句，他模拟的click事件是在touchEnd获取的真实元素上触发的，而不是通过坐标计算出来的元素。
+     
+    
 ## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
 ## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues)  
