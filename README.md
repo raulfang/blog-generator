@@ -192,6 +192,38 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
 
 ## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
+## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
+
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
+[js判断是移动端设备还是pc端设备代码-javascript教程-懒人建站](http://link.zhihu.com/?target=http%3A//www.51xuediannao.com/javascript/jspdsyddsbhspcdsbdm_996.html)
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+
+[JavaScript 实用技巧和写法建议](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c199851882531926e4297) 【函数节流】
+
+## [JavaScirpt 货币转换成千分位正则 （非捕组获匹配详解）](http://link.zhihu.com/?target=https%3A//www.zhuwenlong.com/blog/article/5937f6c85bc74f66e8fc9a53)
+
+[网页性能分析不完全指南 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a20fa1c5188251c11406b3e)【*****】
+
+[JavaScript权威面试指南](https://zhuanlan.zhihu.com/p/31759933)【*****】
+
+[处理JavaScript异常的正确姿势 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2686caf265da4322410f1c)
+
+[JavaScript设计模式之面向对象编程 【继承】 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a252382518825293b50276e)
+
+[手写一个自己的 JavaScript Promise 类库](http://link.zhihu.com/?target=http%3A//www.jackpu.com/s-ge-zi-ji-de-javascript-promise/)
 
 
 ## [宇cccc](http://link.zhihu.com/?target=http%3A//www.jianshu.com/u/a03c0c4f5c88)
