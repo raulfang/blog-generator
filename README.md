@@ -1,6 +1,6 @@
 # blog-generator
 
-## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
 ## JS必知必会点
 ## [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
 ## [必备之常用正则表达式](http://link.zhihu.com/?target=http%3A//www.jeffjade.com/2017/07/13/123-useful-regular-expression/)
@@ -29,7 +29,6 @@
 ## [快速掌握JavaScript面试基础知识(二) | Fundebug博客](http://link.zhihu.com/?target=https%3A//blog.fundebug.com/2018/01/22/the-definitive-javascript-handbook-for-a-developer-interview-2/)
 target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
 
-## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
 ## [js中的作用域与预解释](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/a1b63decb983)
 ## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
 
@@ -64,6 +63,42 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [《JavaScript框架设计（第2版）》之语言模块](http://link.zhihu.com/?target=https%3A//juejin.im/post/599e9ab06fb9a024875532ce) 【扫盲】
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
+
+
+## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
+
+## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
+
+## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
+
+## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
+
+## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
+
+## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
+
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+
+
+## [JavaScript 异步队列实现及拓展](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cce36751882501c14db49c)
+
+## [JavaScript专题之递归](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b88ede5188256c60692a85)
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  
+
+## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
+## [互联网大厂求职面经及总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ba66e8f265da065166e289)
+## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+## [js的事件循环](http://link.zhihu.com/?target=https%3A//github.com/laizimo/zimo-article/issues/26)
+
+## [JS对象的深浅复制](http://link.zhihu.com/?target=https%3A//github.com/junhey/junhey.github.io/issues/2)
+## [JavaScript——单例模式](http://link.zhihu.com/?target=https%3A//github.com/wuyuanlijie/Singleton_Pattern)
+## [谈谈JS中的高级函数](http://link.zhihu.com/?target=https%3A//claiyre.github.io/2017/08/14/%25E8%25B0%2588%25E8%25B0%2588JS%25E4%25B8%25AD%25E7%259A%2584%25E9%25AB%2598%25E7%25BA%25A7%25E5%2587%25BD%25E6%2595%25B0/)
 ## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
 
 ## [javascript常用函数](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010225928) 【4星级】
