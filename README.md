@@ -66,7 +66,8 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
 ## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
 ## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
-
+ 
+## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
 ## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
 
 ## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
