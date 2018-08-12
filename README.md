@@ -4,7 +4,7 @@
 ## JS必知必会点
 0
 ## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
-
+ 
 ## [JavaScript的原型及原型链](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/04/%25E8%25B0%2588%25E8%25B0%2588JavaScript%25E7%259A%2584%25E5%258E%259F%25E5%259E%258B%25E5%258F%258A%25E5%258E%259F%25E5%259E%258B%25E9%2593%25BE/%23more) 
 ## [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
 ## [必备之常用正则表达式](http://link.zhihu.com/?target=http%3A//www.jeffjade.com/2017/07/13/123-useful-regular-expression/)
@@ -200,7 +200,11 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [原生JS实现最简单的图片懒加载](http://link.zhihu.com/?target=http%3A//axuebin.com/blog/2017/08/19/javascript-lazyload/%3Futm_source%3Dtuicool%26utm_medium%3Dreferral)
 ## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
+## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
 
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
 
 ## [有意思的clip-path](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cc619551882530f31a3349)
 ## [谈谈jquery的事件名称和命名空间](http://link.zhihu.com/?target=http%3A//www.haorooms.com/post/jquery_namespaces_eventname)
