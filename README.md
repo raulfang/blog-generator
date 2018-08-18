@@ -2,10 +2,19 @@
 
 
 ## JS必知必会点
-0
 ## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
- 
+## 白话原型和原型链](http://link.zhihu.com/?target=https%3A//juejin.im/post/599d69fc6fb9a0248f4a7b31) 
 ## [JavaScript的原型及原型链](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/04/%25E8%25B0%2588%25E8%25B0%2588JavaScript%25E7%259A%2584%25E5%258E%259F%25E5%259E%258B%25E5%258F%258A%25E5%258E%259F%25E5%259E%258B%25E9%2593%25BE/%23more) 
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+
+## [如何优雅地写js异步循环](http://link.zhihu.com/?target=https%3A//iammapping.com/write-js-async-loop-gracefully/)
+## [ES6必知必会](http://link.zhihu.com/?target=http%3A//www.jianshu.com/u/4d7dd4c7e51d)
+## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
 ## [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
 ## [必备之常用正则表达式](http://link.zhihu.com/?target=http%3A//www.jeffjade.com/2017/07/13/123-useful-regular-expression/)
 ## [JavaScript中的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59748cbb6fb9a06bb21ae36d)
@@ -131,9 +140,6 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 ## [学习正则表达式的简单方法 learn-regex 中文版本](http://link.zhihu.com/?target=https%3A//github.com/zeeshanu/learn-regex/blob/master/README-cn.md)  【扫盲】
-
-
-
 
 ## [Async Functions (异步函数)](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/7731)
 
