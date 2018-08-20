@@ -277,3 +277,5 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [CommonJS](http://link.zhihu.com/?target=http%3A//blog.csdn.net/qq_27626333/article/details/74344857)
 
 ## [互联网大厂求职面经及总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ba66e8f265da065166e289)
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
