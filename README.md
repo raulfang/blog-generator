@@ -278,6 +278,10 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
      
   [34 行 JavaScript 代码搞定粒子动画效果](http://link.zhihu.com/?target=http%3A//svgtrick.com/tricks/0cf695ca1f3af43669223cc4c8d565a3)  
 ## [CommonJS](http://link.zhihu.com/?target=http%3A//blog.csdn.net/qq_27626333/article/details/74344857)
+## ES6
+## [ES6常用新特性](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010596969)
+## [深入理解ES6](http://link.zhihu.com/?target=https%3A//juejin.im/post/598e6eed6fb9a03c543ebe02)
+## [es7-decorator修饰器](http://link.zhihu.com/?target=http%3A//www.guofengxian.com/2017/08/11/es7-decorator%25E4%25BF%25AE%25E9%25A5%25B0%25E5%2599%25A8%25E8%25BF%2590%25E8%25A1%258C%25E7%258E%25AF%25E5%25A2%2583%25E6%2590%25AD%25E5%25BB%25BA%25E5%258F%258A%25E5%25AE%259E%25E8%25B7%25B5/)
 
 ## [互联网大厂求职面经及总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ba66e8f265da065166e289)
 ## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
