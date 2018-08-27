@@ -20,6 +20,7 @@
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 ## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
 ## [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
+## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
 ## [必备之常用正则表达式](http://link.zhihu.com/?target=http%3A//www.jeffjade.com/2017/07/13/123-useful-regular-expression/)
 ## [JavaScript中的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59748cbb6fb9a06bb21ae36d)
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
