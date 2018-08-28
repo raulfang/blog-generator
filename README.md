@@ -287,3 +287,11 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [互联网大厂求职面经及总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ba66e8f265da065166e289)
 ## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
 ## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
+## [移动混合开发中的 JSBridge](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/I812Cr1_tLGrvIRb9jsg-A)
+
+## [H5与Native交互之JSBridge技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/599a58f6f265da247b4e756b)
+
+
+## [浅谈Flux架构及Redux实践](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006742449)
+
+## [babel知多少](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010411116)
