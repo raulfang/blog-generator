@@ -174,7 +174,21 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
 ## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
 
+## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
+
+## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
+
+## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note) 
+
+## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
+
+## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
+
+## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
 ## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
 [js判断是移动端设备还是pc端设备代码-javascript教程-懒人建站](http://link.zhihu.com/?target=http%3A//www.51xuediannao.com/javascript/jspdsyddsbhspcdsbdm_996.html)
