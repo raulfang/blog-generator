@@ -60,6 +60,9 @@
 ## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
 
 
+## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
+
+## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
 
 ## [JavaScript中prompt()函数的用法。 - 《》 - 博客园](http://link.zhihu.com/?   target=https%3A//www.cnblogs.com/zhizhu1120418975/p/6282316.html)
 ## [JavaScript设计模式之创建型设计模式 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a37344651882506e50cbbde)
