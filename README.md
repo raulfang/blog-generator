@@ -36,7 +36,7 @@
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 
 ## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
-
+## [localStorage 还能这么用](http://link.zhihu.com/?target=https%3A//iammapping.com/the-other-ways-to-use-localstorage/)
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
 ## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
