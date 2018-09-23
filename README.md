@@ -22,6 +22,9 @@
 
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
+## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
+
+## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
 ## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
 ## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
 [一看就懂的JS抽象语法树 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2bf2dd6fb9a044fd11b0d2)
