@@ -42,7 +42,7 @@
 ## [换个思路理解Javascript中的this](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010328752)
 ## [谈谈JavaScript中的this关键字](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/03/%25E8%25B0%2588%25E8%25B0%2588JavaScript%25E4%25B8%25AD%25E7%259A%2584this%25E5%2585%25B3%25E9%2594%25AE%25E5%25AD%2597/%23more)
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
-
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
 ##[如何继承Date对象？由一道题彻底弄懂JS继承。 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5c2193f265da3e377bfd83)
 ## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 ## [localStorage 还能这么用](http://link.zhihu.com/?target=https%3A//iammapping.com/the-other-ways-to-use-localstorage/)
