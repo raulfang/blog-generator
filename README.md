@@ -178,9 +178,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
 ## [LESS学习:LESS的基础语法](http://link.zhihu.com/?target=http%3A//old.zhufengpeixun.cn/qianduanjishuziliao/mobileDevelopment/2016-07-22/528.html)
-
 ## [var, let, const详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7286053.html)
-
 ## [从移动端click到摇一摇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59741e6f6fb9a06bca0bd7d1)
 ## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
 ## [js数组API--温故知新](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9f03df265da06602994f7)
@@ -196,6 +194,18 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 
+
+##ES6  ES7
+## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) 
+[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
+## [关于Promise](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/6bb01e492eec)
+
+## [彻底掌握Promise](http://link.zhihu.com/?target=https%3A//juejin.im/post/597724c26fb9a06bb75260e8)
+
+## [从零实现一个简单的 Promise](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010410543)
+
+## [八段代码彻底掌握 Promise](http://link.zhihu.com/?target=https%3A//juejin.im/post/597724c26fb9a06bb75260e8)
+## [ES6 Generator 基础指南](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010532908)
 ## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
 ## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
 
