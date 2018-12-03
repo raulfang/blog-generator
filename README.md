@@ -75,7 +75,7 @@
 ## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
 
 ## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
-## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
+
 
 ## [JavaScript中prompt()函数的用法。 - 《》 - 博客园](http://link.zhihu.com/?   target=https%3A//www.cnblogs.com/zhizhu1120418975/p/6282316.html)
 ## [JavaScript设计模式之创建型设计模式 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a37344651882506e50cbbde)
