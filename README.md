@@ -287,25 +287,11 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
 
-## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
-
-## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
-
-## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
-
-## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
-
+ 
 ## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
 
-## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
+ 
 
-## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
-
-## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
-
-## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
-
-## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
 
 
 
