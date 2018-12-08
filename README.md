@@ -9,17 +9,17 @@
 ## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。]
 (http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
-## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+
 ## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
 ## [如何优雅地写js异步循环](http://link.zhihu.com/?target=https%3A//iammapping.com/write-js-async-loop-gracefully/)
 ## [ES6必知必会](http://link.zhihu.com/?target=http%3A//www.jianshu.com/u/4d7dd4c7e51d)
 ## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
 ## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
 ## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+ 
+ 
 ## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+ 
 
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
 ## [js数组API--温故知新](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9f03df265da06602994f7)
@@ -27,9 +27,24 @@
 ## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
 ## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
 ## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
+## [为什么 call 比 apply 快？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c0e13b5188257e7a428a83)
+Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
+## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
+
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
+## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
+
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew
 ## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
 [一看就懂的JS抽象语法树 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a2bf2dd6fb9a044fd11b0d2)
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+ 
 ## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
 ## [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ca19ca6fb9a00a42477f55)
 ## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
@@ -45,9 +60,9 @@
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
 ## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
 ##[如何继承Date对象？由一道题彻底弄懂JS继承。 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5c2193f265da3e377bfd83)
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+ 
 ## [localStorage 还能这么用](http://link.zhihu.com/?target=https%3A//iammapping.com/the-other-ways-to-use-localstorage/)
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+ 
 ## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
 ## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
 ## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)   
@@ -115,7 +130,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [JavaScript深入系列](http://link.zhihu.com/?target=https%3A//github.com/mqyqingfeng/Blog)  【干货】 
 ## [《JavaScript框架设计（第2版）》之语言模块](http://link.zhihu.com/?target=https%3A//juejin.im/post/599e9ab06fb9a024875532ce) 【扫盲】
 
-## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+ 
 
 ## [jQuery->JavaScript一览表](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/09/15/20170915-jquery-js-table/)
 
@@ -156,7 +171,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [如何用 js 获取虚拟键盘高度？](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5MTA1MjAxMQ%3D%3D%26amp%3Bmid%3D2651226929%26amp%3Bidx%3D1%26amp%3Bsn%3D4587bf582dcb235e00592fc49b146632%26amp%3Bchksm%3Dbd495ab58a3ed3a348eafa262c28c6467acf50edaf255061e42e1c5dea28ba7a90fb5df43373%26amp%3Bmpshare%3D1%26amp%3Bscene%3D1%26amp%3Bsrcid%3D09072V1Wx5VN4duxj0e3MLfZ%23)
 ## [JavaScript 骚操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59d2ebcbf265da06516729b8)
 ## [anime.js 实战：实现一个 SVG 形变（morphing）动画](http://link.zhihu.com/?target=http%3A//svgtrick.com/tricks/fdc190c979ab7526519aadbfa33ac08f)  【干货】
-## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+ 
 ## [10个JavaScript难点](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010371988)
 ## [JavaScript的记忆函数真的可以提升性能吗？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59bce30e6fb9a00a424755e9)
 
@@ -190,10 +205,10 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 
  
-## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+ 
 
 ## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+ 
 
 
 ##ES6  ES7
@@ -220,7 +235,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
 
-## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+ 
 
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
@@ -266,7 +281,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
 
-## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
 
 ## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
 
@@ -385,7 +400,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
 ## [移动混合开发中的 JSBridge](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/I812Cr1_tLGrvIRb9jsg-A)
 ## [H5与Native交互之JSBridge技术](http://link.zhihu.com/?target=https%3A//juejin.im/post/599a58f6f265da247b4e756b)
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+ 
 ## [用addRoutes实现动态路由](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/01/%25E7%2594%25A8addRoutes%25E5%25AE%259E%25E7%258E%25B0%25E5%258A%25A8%25E6%2580%2581%25E8%25B7%25AF%25E7%2594%25B1/)
 ## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
 ## [面向初学者的高阶组件教程](https://zhuanlan.zhihu.com/p/27985956)
@@ -399,7 +414,8 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
 ## [用Nodejs开发命令行工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b73c9df265da06670c5868)
-## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+ 
 
 ## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
 ## [babel知多少](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010411116)
+
