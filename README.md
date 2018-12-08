@@ -22,7 +22,7 @@
 ## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
 
 ## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
-
+## [js数组API--温故知新](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9f03df265da06602994f7)
 ## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
 ## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
 ## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
@@ -107,7 +107,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
  
 ## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
-## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
+
 
 ## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
 
@@ -182,7 +182,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [var, let, const详解](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7286053.html)
 ## [从移动端click到摇一摇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59741e6f6fb9a06bca0bd7d1)
 ## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
-## [js数组API--温故知新](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c9f03df265da06602994f7)
+
 ## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
 ## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
 
