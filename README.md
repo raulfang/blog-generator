@@ -64,7 +64,7 @@ Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.gith
 ## [换个思路理解Javascript中的this](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010328752)
 ## [谈谈JavaScript中的this关键字](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/03/%25E8%25B0%2588%25E8%25B0%2588JavaScript%25E4%25B8%25AD%25E7%259A%2584this%25E5%2585%25B3%25E9%2594%25AE%25E5%25AD%2597/%23more)
 ## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
-## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 
 ## [JavaScript 面试必须知道的 10 个概念]http://web.jobbole.com/92594/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
 ##[如何继承Date对象？由一道题彻底弄懂JS继承。 - 掘金](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a5c2193f265da3e377bfd83)
  
@@ -87,8 +87,8 @@ Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.gith
 ## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
 ## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
 ## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
-## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
-## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b) 
 ## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
 ## [给一个元素同时绑定click和dbclick存在的问题](http://link.zhihu.com/?target=https%3A//github.com/lvzhenbang/article/blob/master/js/single_double.md)
 
