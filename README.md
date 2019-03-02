@@ -8,7 +8,7 @@
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
 ## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。]
 (http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
-## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  
 
 ## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
 ## [如何优雅地写js异步循环](http://link.zhihu.com/?target=https%3A//iammapping.com/write-js-async-loop-gracefully/)
@@ -281,7 +281,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
 
-## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 
 
 ## [有意思的clip-path](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cc619551882530f31a3349)
 ## [谈谈jquery的事件名称和命名空间](http://link.zhihu.com/?target=http%3A//www.haorooms.com/post/jquery_namespaces_eventname)
