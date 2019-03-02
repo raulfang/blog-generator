@@ -36,7 +36,7 @@
 ## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
 
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
-## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 
 ## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
 ## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
 ## [为什么 call 比 apply 快？](http://link.zhihu.com/?target=https%3A//juejin.im/post/59c0e13b5188257e7a428a83)
@@ -59,7 +59,7 @@ Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.gith
 ## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
 ## [JavaScript tips -- 谈谈数组乱序](http://link.zhihu.com/?target=https%3A//juejin.im/post/5a6834bb51882573485a1f2b%23comment)
 ## [加深对 JavaScript This 的理解](http://link.zhihu.com/?target=https%3A//juejin.im/post/596a28f6f265da6c360a2716)
-## [嗨， 你知道 this 吗？](http://link.zhihu.com/?target=https%3A//juejin.im/post/5995c7a76fb9a0247a60c407) 【扫盲】
+## [嗨， 你知道 this 吗？](http://link.zhihu.com/?target=https%3A//juejin.im/post/5995c7a76fb9a0247a60c407) 
 ## [this指向看JavaScript](https://zhuanlan.zhihu.com/p/28058983) 
 ## [换个思路理解Javascript中的this](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010328752)
 ## [谈谈JavaScript中的this关键字](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/03/%25E8%25B0%2588%25E8%25B0%2588JavaScript%25E4%25B8%25AD%25E7%259A%2584this%25E5%2585%25B3%25E9%2594%25AE%25E5%25AD%2597/%23more)
@@ -115,7 +115,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
  
 ## [这些JavaScript编程黑科技](http://link.zhihu.com/?target=https%3A//github.com/jawil/blog/issues/24) 【干货】
 
-## [温习javascript之Array的使用](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/84f3763f7422) 【扫盲】
+## [温习javascript之Array的使用](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/84f3763f7422) 
 
 
 ## [Javascript调试命令——你只会Console.log() ?](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000012957199)
@@ -135,7 +135,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 
 ## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
 ## [JavaScript深入系列](http://link.zhihu.com/?target=https%3A//github.com/mqyqingfeng/Blog)  【干货】 
-## [《JavaScript框架设计（第2版）》之语言模块](http://link.zhihu.com/?target=https%3A//juejin.im/post/599e9ab06fb9a024875532ce) 【扫盲】
+## [《JavaScript框架设计（第2版）》之语言模块](http://link.zhihu.com/?target=https%3A//juejin.im/post/599e9ab06fb9a024875532ce) 
 ## [jQuery->JavaScript一览表](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/09/15/20170915-jquery-js-table/)
 
 ## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
