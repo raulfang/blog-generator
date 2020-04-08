@@ -6,8 +6,7 @@
 ## [白话原型和原型链](http://link.zhihu.com/?target=https%3A//juejin.im/post/599d69fc6fb9a0248f4a7b31) 
 ## [JavaScript的原型及原型链](http://link.zhihu.com/target=http%3A//barryliu1995.studio/2017/08/04/%25E8%25B0%2588%25E8%25B0%2588JavaScript%25E7%259A%2584%25E5%258E%259F%25E5%259E%258B%25E5%258F%258A%25E5%258E%259F%25E5%259E%258B%25E9%2593%25BE/%23more) 
 ## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
-## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。]
-(http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/target=https%3A//github.com/libin1991/rx-hub)
 ## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  
 
 ## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
@@ -314,7 +313,7 @@ target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D26764
 ## [什么是cors跨域](http://link.zhihu.com/?target=http%3A//karma-hk.com%3A4011/%23/%3Fid%3D596ecbee8e46d45a474a4cdb)
 ## [webpack之loader和plugin简介](http://link.zhihu.com/?target=https%3A//juejin.im/post/5980752ef265da3e2e56e82e)
 
-## [npm 与 package.json 快速入门](http://link.zhihu.com/?target=http%3A//blog.csdn.net/u011240877/article/details/76582670)
+## [npm 与 package.json 快速入门](http://link.zhihu.com/target=http%3A//blog.csdn.net/u011240877/article/details/76582670)
  
  
  
